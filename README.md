@@ -14,3 +14,6 @@ IT Support • Windows/Linux • Networking • TrueNAS • PowerShell • Bash 
 • Interests
 
 Automation • Cloud Infrastructure • Data Engineering • System Optimization
+
+
+
