@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi!! 
+Im Ashish Rana.
 
-<!--
-**AshishRana1503/AshishRana1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Specialist | Network Administrator | Cloud & Automation Enthusiast
 
-Here are some ideas to get you started:
+Skilled in troubleshooting, system administration, and optimizing Windows/Linux environments. Experienced with VLANs, TrueNAS, multiuser servers, VPNs, and enterprise IT support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building automation tools using PowerShell, Bash, and Python, and have worked on cloud workflows using AWS (S3 + Lambda). Currently growing toward Data Engineering with a focus on SQL, ETL, and scalable cloud pipelines.
+
+• Skills
+
+IT Support • Windows/Linux • Networking • TrueNAS • PowerShell • Bash • Python • SQL • AWS • Automation
+
+• Interests
+
+Automation • Cloud Infrastructure • Data Engineering • System Optimization
